@@ -41,7 +41,7 @@ I'm a B.Tech IT student and a passionate Front-End Developer who loves crafting 
 
 ## 🐍 Snake Eating My GitHub Contributions 😳
 
-![snake gif](https://github.com/Shubham2937Q/Shubham2937Q/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Shubham-Mallick/Shubham-Mallick/blob/output/github-snake-dark.svg)
 
 </div>
 
