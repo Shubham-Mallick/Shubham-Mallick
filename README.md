@@ -22,9 +22,9 @@ I'm a B.Tech IT student and a passionate Front-End Developer who loves crafting 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham2937Q&show_icons=true&theme=tokyonight" alt="Shubham's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham2937Q&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham2937Q&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Mallick&show_icons=true&theme=tokyonight" alt="Shubham's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Mallick&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Mallick&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
