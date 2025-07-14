@@ -3,7 +3,7 @@
 I'm a B.Tech IT student and a passionate Front-End Developer who loves crafting clean, interactive user experiences. I thrive on turning ideas into engaging, real-world web projects. Building innovative and fun interfaces drives me every day!
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shubham2937Q&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Shubham-Mallick&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
 
@@ -19,12 +19,21 @@ I'm a B.Tech IT student and a passionate Front-End Developer who loves crafting 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
+
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Shubham-Mallick&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Mallick&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="Shubham's GitHub stats" height="180"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Mallick&show_icons=true&theme=tokyonight" alt="Shubham's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Mallick&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Mallick&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Mallick&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&card_width=400" alt="Top Languages" height="180"/>
 </p>
 
 ---
